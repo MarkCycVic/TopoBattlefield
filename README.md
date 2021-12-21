@@ -1,2 +1,2 @@
 # TopoBattlefield
-Exploration of strategies within PettingZoo/MAgent/Battlefield based on topological variations of the environment
+The code for the implementation of the project Multi-Agent Reinforcement Learning Exploration of Topological Spaces. This project was accomplished in the context of the graduate course Multi-Agent System at Carleton University, Ottawa, Canada, under the supervision of Professor Alan Tsang. This is an exploration of strategies within the environment of PettingZoo/MAgent/Battlefield based on topological variations of the environment.
